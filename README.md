@@ -1,6 +1,3 @@
- # GMM-estimation-of-stochastic-rough-volatility
-#GMM estimation of stochastic rough volatility <br>
-#<br>
 The project is about GMM estimation of Rough Volatility in Multivariate Setting. The folder content highlights are are as follows:<br>
 <br>
 <br>
